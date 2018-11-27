@@ -1,4 +1,6 @@
 https://desktop.github.com. <<< to install GitHub (and if needed git) onto your laptop
 
+https://try.github.io <<< tutorials of various types and focal points
+
 https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners <<< not recommended
 

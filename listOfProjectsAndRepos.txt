@@ -2,5 +2,5 @@ FILE ProjectRepoList
 
 PROJECT                 REPO NAME                        DESCRIPTION
 Project Overview        Joint-Project-Information        A place to get started with GitHub, and keep track of shared projects
-Better-births.com       tbd                              Mom's website
+Better-births.com       betterBirths.com                 Mom's website
 Agile Field Guide       tbd                              An Apple/Google book applying agile practices to life science field work
