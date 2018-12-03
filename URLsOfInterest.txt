@@ -1,6 +1,10 @@
 https://desktop.github.com. <<< to install GitHub (and if needed git) onto your laptop
+https://atom.io. <<< to download atom editor
+
 
 https://try.github.io <<< tutorials of various types and focal points
 
+
+NO LONGER INTERESTING
 https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners <<< not recommended
 
