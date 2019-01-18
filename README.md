@@ -15,8 +15,10 @@ share some rules of the road, and park information that seems of general interes
 Project | Repo Name | Whazit? | Whose?
 --- | --- | --- | --- |
 the hub | Joint-Project-Information | this repo! |joint
-Mom's website | BetterBirths.com  | Mom's website code, assets, etc. | joint
-Agile Afield! | tbd | iBook/Kindle sources for a text applying agile practices to field work | joint
+Mom's website | BetterBirths  | Mom's website code, assets, etc. | joint
+Agile Afield! | FAv0 | Field Agility version 0; iBook/Kindle sources for a text applying agile practices to field work | joint
+
+TODO: Consider merging repos toolshed and Joint-Project-Information
 
 ## Rules of the road
 - Default access is read&write for all three of us. We are all three welcome to use the account for experimentation, adding repos for our individual work as well as share work, without prior notice or coordination. However, we need to caucus before adding any users besides the three of use.  And eventually, you probably want to remove unused personal experiments, if only because someone else may accidentally mess it up.
